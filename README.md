@@ -27,10 +27,6 @@
 
 <br>
 
-#### Backend
-<img align="left" alt="Python" src="https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge" />
-
-<br>
 
 #### Databases
 <img align="left" alt="Python" src="https://img.shields.io/badge/-MySQL-f29111?logo=mysql&logoColor=1d1d1d&style=for-the-badge" />
